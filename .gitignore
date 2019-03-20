@@ -1,0 +1,6 @@
+# jupyter notebooks and other
+*.ipynb
+.ipynb_checkpoints/
+
+# json files created by program
+*.json
